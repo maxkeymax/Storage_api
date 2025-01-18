@@ -24,7 +24,7 @@
 - Python 3.8+
 - Django 4.2+
 - Django REST Framework
-- MySQL
+- SQLite
 
  
 ### API запросы
